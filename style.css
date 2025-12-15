@@ -18,12 +18,10 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     line-height: 1.6;
     color: var(--text);
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/78/OSH_Margosha_of_Marikacats_%2814167832306%29.jpg);
+    background-color: whitesmoke;
     background-repeat: repeat;
-}
-
-p{
-    color: white;
+    background-size: 50%;
+    text-decoration-color: white ;
 }
 
 nav {
